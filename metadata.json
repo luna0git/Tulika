@@ -1,0 +1,5 @@
+{
+  "name": "Swiggy Clone",
+  "description": "A high-performance food delivery platform clone featuring restaurant listings, menu browsing, and a real-time cart experience.",
+  "requestFramePermissions": ["geolocation"]
+}
